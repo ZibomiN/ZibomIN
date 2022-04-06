@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/88023631/161920755-dbc24076-b253-4be0-89f9-750de03edf56.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/88023631/161920755-dbc24076-b253-4be0-89f9-750de03edf56.jpg">
 </p>
 
 |  Graduted  |  Field of study  |  Year  | 
