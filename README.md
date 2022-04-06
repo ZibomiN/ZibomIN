@@ -7,7 +7,8 @@
 #### becuz I used to study in Pharmacy:pill: and medical technology:syringe::drop_of_blood:  	
 #### Can I count on you? ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
 #### I'm a big fan of Liverpool Football club  
-![This is an image](https://files.fm/f/5heryuyvc)
+![IMG_20201024_104448](https://user-images.githubusercontent.com/88023631/161920755-dbc24076-b253-4be0-89f9-750de03edf56.jpg)
+
 
 
 |  Graduted  |  Field of study  |  Year  | 
