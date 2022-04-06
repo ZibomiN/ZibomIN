@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ## Hi there Welcome to my GitHub Profile👋  
 ##### My name is Phanin Ngamchuen you can call me Baz
 ##### 🔭 I’m currently working on Coding and Develop something new for the peaple and the world...  
