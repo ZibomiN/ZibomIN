@@ -5,7 +5,8 @@
 ##### 🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...  
 ##### ⚡ Fun fact: I am jack of all trades Master of none In Thai we call 'เป็ด(duck)🦆'  
 #### becuz I used to study in Pharmacy:pill: and medical technology:syringe::drop_of_blood:  	
-#### Can I count on you? ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
+#### Can I count on you?  
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
 #### I'm a big fan of Liverpool Football club  
 
 
@@ -20,8 +21,22 @@
 |  Huachiew chalermprakiet university  |  University education  |  present  |    
 
 
-## 
-#####
+## 💻 My Laptop
+##### Asus TUF FX504GE i5 8300H/GTX1050ti/ram 16gb/ssd 1tb
+![IMG_20210911_130742](https://user-images.githubusercontent.com/88023631/161929310-55a8f4b6-4958-40d2-af82-b636c04772ba.jpg)
+## My Rig
+> Intel core i7 8700K 3.7Ghz 6C/12T
+> Z370 Aorus Ultra Gaming
+> GeForce® GTX 1060 WINDFORCE OC 6G Sold!!!!(Wait for New GPU)
+> Corsair RAM 16GB DDR4(3200) VENGEANCE LED (RED)
+> HDD WD BLUE 3TB
+> SSD Samsung 250gb SATA
+> PSU SuperFlower 650W 80+ FX Bronze
+> CASE Antec P8
+![AB7068F7-462E-45A6-9BD9-24B5EC7650C2](https://user-images.githubusercontent.com/88023631/161930939-aef9602c-0050-41b6-867f-3c5e93fa366b.jpeg)
+
+
+
 <!--
 **ZibomiN/ZibomIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
