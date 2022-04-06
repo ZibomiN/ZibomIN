@@ -1,5 +1,5 @@
 ### Hi there 👋
-#H1 My name is Phanin Ngamchuen you can call me Baz
+# My name is Phanin Ngamchuen you can call me Baz
 .
 .
 .
