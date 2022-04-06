@@ -5,8 +5,9 @@
 ##### 🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...  
 ##### ⚡ Fun fact: I am jack of all trades Master of none In Thai we call 'เป็ด(duck)🦆'  
 #### becuz I used to study in Pharmacy:pill: and medical technology:syringe::drop_of_blood:  	
+#### Can I count on you? ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
 #### I'm a big fan of Liverpool Football club  
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://files.fm/u/ff3jebhmt)
 
 
 |  Graduted  |  Field of study  |  Year  | 
@@ -14,7 +15,7 @@
 |  Jirasart witthaya school  |  Kindergarten  |2003  |
 |  Ayutthaya witthayalai school  |  Elementary school  |  2009  |
 |  Huachiew chalermprakiet university  |  University education  |  present  |    
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
+
 
 ## 
 #####
