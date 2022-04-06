@@ -5,7 +5,16 @@
 ##### 🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...  
 ##### ⚡ Fun fact: I am jack of all trades Master of none In Thai we call 'เป็ด(duck)🦆'  
 ### becuz I used to study in Pharmacy:pill: and medical technology:syringe::drop_of_blood:	
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
+
+| Graduted  | Year |
+| ------------- | ------------- |
+| Jirasart witthaya school  | 2003  |
+| Ayutthaya witthayalai school  | 2009  |
+| Huachiew chalermprakiet university  | present  |  
+
+## 
+#####
 <!--
 **ZibomiN/ZibomIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
