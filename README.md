@@ -4,7 +4,7 @@
 ### :muscle:I'm good at healthcare, health science...
 ### 🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...  
 ### ⚡ Fun fact: I am jack of all trades Master of none In Thai we call 'เป็ด(duck)🦆'  
-becuz I used to study in Pharmacy:pill: and medical technology:syringe: :drop_of_blood:	
+### becuz I used to study in Pharmacy:pill: and medical technology:syringe::drop_of_blood:	
 
 <!--
 **ZibomiN/ZibomIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
