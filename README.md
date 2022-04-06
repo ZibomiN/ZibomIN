@@ -10,7 +10,7 @@
 
 
 |  Graduted  |  Field of study  |  Year  | 
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 |  Jirasart witthaya school  |  Kindergarten  |2003  |
 |  Ayutthaya witthayalai school  |  Elementary school  |  2009  |
 |  Huachiew chalermprakiet university  |  University education  |  present  |    
