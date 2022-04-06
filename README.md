@@ -1,8 +1,5 @@
-### Hi there Welcome to my GitHub Profile👋
-#### My name is Phanin Ngamchuen you can call me Baz
-.  
-.  
-.  
+## Hi there Welcome to my GitHub Profile👋
+## My name is Phanin Ngamchuen you can call me Baz
 🔭 I’m currently working on Coding and Develop something new for the peaple and the world...  
 :muscle:I  
 🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...  
