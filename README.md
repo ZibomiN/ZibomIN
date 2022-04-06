@@ -3,9 +3,10 @@
 .
 .
 .
-🔭 I’m currently working on Coding and Develop something new for the peaple and the world...
-🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...
-
+-🔭 I’m currently working on Coding and Develop something new for the peaple and the world...
+-:muscle:	I
+-🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...
+-
 
 <!--
 **ZibomiN/ZibomIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
