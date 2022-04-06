@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:0AD7D7,100:B2F7F7&height=300&section=header&text=Hi%20There!%20Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:0AD7D7,100:B2F7F7&height=250&section=header&text=Hi%20There!%20Welcome&fontSize=90)
 ##### My name is Phanin Ngamchuen you can call me Baz
 ##### 🔭 I’m currently working on Coding and Develop something new for the peaple and the world...  
 ##### :muscle:I'm good at healthcare, health science...
@@ -35,7 +35,7 @@
 > CASE Antec P8  
 ![AB7068F7-462E-45A6-9BD9-24B5EC7650C2](https://user-images.githubusercontent.com/88023631/161930939-aef9602c-0050-41b6-867f-3c5e93fa366b.jpeg)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&height=300&color=0:0AD7D7,100:B2F7F7)
+![footer](https://capsule-render.vercel.app/api?section=footer&height=250&color=0:0AD7D7,100:B2F7F7)
 
 <!--
 **ZibomiN/ZibomIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
