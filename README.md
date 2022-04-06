@@ -22,16 +22,16 @@
 
 
 ## 💻 My Laptop
-##### Asus TUF FX504GE i5 8300H/GTX1050ti/ram 16gb/ssd 1tb
-![IMG_20210911_130742](https://user-images.githubusercontent.com/88023631/161929310-55a8f4b6-4958-40d2-af82-b636c04772ba.jpg)
-## My Rig  
-> Intel core i7 8700K 3.7Ghz 6C/12T  
-> Z370 Aorus Ultra Gaming  
-> GeForce® GTX 1060 WINDFORCE OC 6G Sold!!!!(Wait for New GPU)  
-> Corsair RAM 16GB DDR4(3200) VENGEANCE LED (RED)  
-> HDD WD BLUE 3TB  
-> SSD Samsung 250gb SATA  
-> PSU SuperFlower 650W 80+ FX Bronze  
+> 🎮Asus TUF FX504GE Intel coer i5 8300H/GTX1050ti 4GB/RAM 16GB/SSD 1TB
+![IMG_20210911_130742](https://user-images.githubusercontent.com/88023631/161929310-55a8f4b6-4958-40d2-af82-b636c04772ba.jpg)  
+## 🖥️ My Rig  
+> 🧠Intel core i7 8700K 3.7Ghz 6C/12T  
+> 🕹️Z370 Aorus Ultra Gaming  
+> 🎮GeForce® GTX 1060 WINDFORCE OC 6G Sold!!!!(Wait for New GPU)  
+> 📟Corsair RAM 16GB DDR4(3200) VENGEANCE LED (RED)  
+> 🧩HDD WD BLUE 3TB  
+> 🎰	SSD Samsung 250gb SATA  
+> 🔋PSU SuperFlower 650W 80+ FX Bronze  
 > CASE Antec P8  
 ![AB7068F7-462E-45A6-9BD9-24B5EC7650C2](https://user-images.githubusercontent.com/88023631/161930939-aef9602c-0050-41b6-867f-3c5e93fa366b.jpeg)
 
