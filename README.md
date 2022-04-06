@@ -35,7 +35,7 @@
 > CASE Antec P8  
 ![AB7068F7-462E-45A6-9BD9-24B5EC7650C2](https://user-images.githubusercontent.com/88023631/161930939-aef9602c-0050-41b6-867f-3c5e93fa366b.jpeg)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=0:0AD7D7,100:B2F7F7)
 
 <!--
 **ZibomiN/ZibomIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
