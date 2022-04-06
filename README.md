@@ -26,7 +26,7 @@
 |  Name  |  Description  |  Year  |  Picture  |
 | ------------- | ------------- | ------------- | ------------- |
 |  Digital vaccine  |  Have awareness about socialnetwork  |  2021  |  ![ARIT certificate2](https://user-images.githubusercontent.com/88023631/161981497-06f876af-531e-4b4e-a0d0-72859ffbf2ae.png)  |
-|  ARIT  |  Standard in professional qualitification Level 3  |  2022  |  [Digital Vaccine Certificate.pdf](https://github.com/ZibomiN/ZibomIN/files/8427107/Digital.Vaccine.Certificate.pdf)  |
+|  ARIT  |  Standard in professional qualitification Level 3  |  2022  |  ![Digital Vaccine Certificate](https://user-images.githubusercontent.com/88023631/161981930-51aa3512-a43c-4799-a592-e91fd7190d7d.png)  |
 
 
 
