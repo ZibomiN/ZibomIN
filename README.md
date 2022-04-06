@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:0AD7D7,100:B2F7F&height=250&section=header&text=Hi%20There!%20Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:581845,100:FF5733&height=250&section=header&text=Hi%20There!%20Welcome&fontSize=90)
 ##### My name is Phanin Ngamchuen you can call me Baz
 ##### Owner of Seafood Resturant in Thailand, Ayutthaya "ร้านอาหารโชคอำนวย แต๋ว สาขา 2"  
 ##### https://www.facebook.com/Chockamnuayteaw3
