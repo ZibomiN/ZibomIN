@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Welcome to my GitHub Profile👋
 #### My name is Phanin Ngamchuen you can call me Baz
 .
 .
