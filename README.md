@@ -4,12 +4,12 @@
 ##### https://www.facebook.com/Chockamnuayteaw3
 ##### 🔭 I’m currently working on Coding and Develop something new for the peaple and the world...  
 ##### :muscle:I'm good at healthcare, health science...
-##### 🌱 I’m currently learning programing lauguages such as Java, C#,Phyton  and the other...  
+##### 🌱 I’m currently learning programing lauguages such as Java, JavaScript, C#,Phyton and the other...  
 ##### ⚡ Fun fact: I am jack of all trades Master of none In Thai we call 'เป็ด(duck)🦆'  
-#### becuz I used to study in Pharmacy:pill: and medical technology:syringe::drop_of_blood:  	
-#### Can I count on you?  
+##### becuz I used to study in Pharmacy:pill: and medical technology:syringe::drop_of_blood:  	
+##### Can I count on you?  
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)  
-#### I'm a big fan of Liverpool Football club  
+### I'm a big fan of Liverpool Football club  
 
 
 <p align="center">
@@ -20,7 +20,15 @@
 | ------------- | ------------- | ------------- |
 |  Jirasart witthaya school  |  Kindergarten  |2003  |
 |  Ayutthaya witthayalai school  |  Elementary school  |  2009  |
-|  Huachiew chalermprakiet university  |  University education  |  present  |    
+|  Huachiew chalermprakiet university  |  University education  |  present  |      
+
+## :trophy:	My certificate 
+|  Name  |  Description  |  Year  |  Picture  |
+| ------------- | ------------- | ------------- | ------------- |
+|  Digital vaccine  |  Have awareness about socialnetwork  |  2021  |  ![ARIT certificate2](https://user-images.githubusercontent.com/88023631/161981497-06f876af-531e-4b4e-a0d0-72859ffbf2ae.png)  |
+|  ARIT  |  Standard in professional qualitification Level 3  |  2022  |  [Digital Vaccine Certificate.pdf](https://github.com/ZibomiN/ZibomIN/files/8427107/Digital.Vaccine.Certificate.pdf)  |
+
+
 
 
 ## 💻 My Laptop
